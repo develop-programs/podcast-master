@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Home",
+    "href": "/",
+    "icon": "/images/icon-vuesax-bold-home.svg"
+  },
+  {
+    "name": "Discover",
+    "href": "/Discover",
+    "icon": "/images/icon-discovery.svg"
+  },
+  {
+    "name": "Create Podcast",
+    "href": "/Newpodcast",
+    "icon": "/images/icon-vuesax-bulk-microphone-2.svg"
+  },
+  {
+    "name": "My Profile",
+    "href": "/Profile",
+    "icon": "/images/vuesax-bold-vuesax-bold-user.svg"
+  }
+]
